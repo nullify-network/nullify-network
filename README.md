@@ -67,7 +67,7 @@ We help teams find and close vulnerabilities **before someone exploits them**. N
 
 [![Get started](https://img.shields.io/badge/▶_Start_at_nullify.network-1c4a32?style=for-the-badge&labelColor=0a0a0a)](https://nullify.network)
 &nbsp;
-[![Talk to us](https://img.shields.io/badge/Talk_to_us-0a0a0a?style=for-the-badge&logo=telegram&logoColor=5FA578)](https://t.me/nullifynetwork)
+[![Talk to us](https://img.shields.io/badge/Talk_to_us-0a0a0a?style=for-the-badge&logo=telegram&logoColor=5FA578)](https://t.me/marienullifysupport)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:1c4a32,40:0e1f16,100:060606" width="100%" alt=""/>
 
